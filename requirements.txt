@@ -69,7 +69,7 @@ django-revproxy==0.10.0
 django-silk==4.1.0
 django-sslserver==0.22
 django-user-agents==0.4.0
-djangorestframework==3.11.1
+djangorestframework==3.12.1
 entrypoints==0.3
 Fabric3==1.14.post1
 Flask==1.1.2
