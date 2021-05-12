@@ -110,7 +110,7 @@ kombu==5.0.2
 lazy-object-proxy==1.5.1
 lxml==4.5.2
 Markdown==3.2.2
-MarkupSafe==1.1.1
+MarkupSafe==2.0.0
 matplotlib==3.3.1
 mccabe==0.6.1
 mistune==0.8.4
