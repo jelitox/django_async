@@ -90,7 +90,7 @@ html5lib==1.1
 idna==2.10
 idna-ssl==1.1.0
 ipykernel==5.3.4
-ipython==7.18.1
+ipython==7.28.0
 ipython-genutils==0.2.0
 isort==5.5.2
 iso8601==0.1.12
