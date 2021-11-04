@@ -132,7 +132,7 @@ pbr==5.5.0
 pexpect==4.8.0
 pickleshare==0.7.5
 ply==3.11
-prompt-toolkit==3.0.7
+prompt-toolkit==3.0.22
 psycopg2-binary==2.8.6
 ptyprocess==0.6.0
 py4j==0.10.9.1
