@@ -93,7 +93,7 @@ ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
 isort==5.5.2
-iso8601==0.1.12
+iso8601==1.0.0
 itsdangerous==1.1.0
 jedi==0.17.2
 jeepney==0.4.3
