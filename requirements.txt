@@ -123,7 +123,7 @@ numpy==1.19.2
 oauthlib==3.1.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.2.1
-packaging==20.4
+packaging==21.3
 pandocfilters==1.4.2
 paramiko==2.7.2
 parso==0.8.0
