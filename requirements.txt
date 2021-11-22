@@ -184,7 +184,7 @@ stringcase==1.2.0
 tabulate==0.8.7
 terminado==0.8.3
 testpath==0.4.4
-tinycss2==1.0.2
+tinycss2==1.1.1
 toml==0.10.1
 tornado==6.0.4
 tqdm==4.61.1
