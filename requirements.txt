@@ -39,7 +39,7 @@ cryptography==3.1
 cssselect2==0.3.0
 cycler==0.10.0
 dateparser==0.7.6
-decorator==4.4.2
+decorator==5.1.1
 defusedxml==0.6.0
 Django==3.1.1
 django-apscheduler==0.4.2
