@@ -120,7 +120,7 @@ nbconvert==6.0.1
 nbformat==5.0.7
 notebook==6.1.4
 numpy==1.19.2
-oauthlib==3.1.0
+oauthlib==3.2.0
 objectpath==0.6.1
 Office365-REST-Python-Client==2.2.1
 packaging==20.4
