@@ -138,7 +138,7 @@ ptyprocess==0.6.0
 py4j==0.10.9.1
 pyasn==1.6.1
 pycares==3.1.1
-pycodestyle==2.6.0
+pycodestyle==2.9.1
 pycparser==2.20
 pycrypto==2.6.1
 pycryptodome==3.9.8
