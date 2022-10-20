@@ -145,7 +145,7 @@ pycryptodome==3.9.8
 pydotplus==2.0.2
 Pygments==2.6.1
 pyicloud==0.9.7
-PyJWT==1.7.1
+PyJWT==2.6.0
 pylibmc==1.6.1
 pylint==2.6.0
 PyNaCl==1.4.0
