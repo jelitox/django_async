@@ -192,7 +192,7 @@ traitlets==5.0.4
 twilio==6.45.1
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
-tzlocal==2.1
+tzlocal==4.3
 ua-parser==0.10.0
 urllib3==1.25.10
 user-agents==2.2.0
