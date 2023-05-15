@@ -186,7 +186,7 @@ terminado==0.8.3
 testpath==0.4.4
 tinycss2==1.0.2
 toml==0.10.1
-tornado==6.0.4
+tornado==6.3.2
 tqdm==4.61.1
 traitlets==5.0.4
 twilio==6.45.1
