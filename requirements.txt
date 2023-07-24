@@ -104,7 +104,7 @@ jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.2
 jsonschema==3.2.0
 keyring==21.4.0
-keyrings.alt==3.4.0
+keyrings.alt==5.0.0
 kiwisolver==1.2.0
 kombu==5.0.2
 lazy-object-proxy==1.5.1
