@@ -127,7 +127,7 @@ packaging==20.4
 pandocfilters==1.4.2
 paramiko==2.7.2
 parso==0.8.0
-patsy==0.5.1
+patsy==0.5.4
 pbr==5.5.0
 pexpect==4.8.0
 pickleshare==0.7.5
