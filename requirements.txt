@@ -20,7 +20,7 @@ asyncpg==0.21.0
 attrs==20.2.0
 autopep8==1.5.4
 backcall==0.2.0
-bcrypt==3.2.0
+bcrypt==4.1.2
 beautifulsoup4==4.9.1
 billiard==3.6.3.0
 bitstring==3.1.7
