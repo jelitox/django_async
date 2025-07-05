@@ -99,7 +99,7 @@ jedi==0.17.2
 jeepney==0.4.3
 Jinja2==2.11.2
 joblib==0.16.0
-jsonfield==3.1.0
+jsonfield==3.2.0
 jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.2
 jsonschema==3.2.0
